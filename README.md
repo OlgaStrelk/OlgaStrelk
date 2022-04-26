@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](TolkachevPeter/README.md)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/OlgaStrelk/OlgaStrelk/readme_header.gif "Header")](TolkachevPeter/README.md)
 ### Hi there 👋
 
 <!--
