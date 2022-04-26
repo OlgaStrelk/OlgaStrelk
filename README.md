@@ -1,6 +1,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/86570826/165311836-8419d0e7-1ef6-4477-b28d-146f5fd15e3c.gif)
 ### Hi there 👋
+![cover](https://user-images.githubusercontent.com/86570826/165316632-c2a4e960-d5b1-4dd7-8a7b-a03efd568cd0.jpg)
 
 <!--
 **OlgaStrelk/OlgaStrelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
