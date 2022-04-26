@@ -1,5 +1,4 @@
-
-![cover](https://user-images.githubusercontent.com/86570826/165316877-57e161c9-f647-4ab1-90cc-2b26534bfb26.jpg)
+![Olga Strelkova](https://user-images.githubusercontent.com/86570826/165323313-fc92ca68-386d-4171-afc2-ed715b155de9.jpg)
 
 ### Hi, I'm Olya 👋
 
