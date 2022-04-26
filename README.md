@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/OlgaStrelk/<OWNER>/<OWNER>/giphy.gif "Header")]
+[![Header](https://raw.githubusercontent.com/OlgaStrelk/<OlgaStrelk>/<OlgaStrelk>/giphy.gif "Header")]
 
 ### Hi there 👋
 
