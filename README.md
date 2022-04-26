@@ -1,4 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/OlgaStrelk/OlgaStrelk/giphy.gif "Header")](#)
+
+![giphy](https://user-images.githubusercontent.com/86570826/165311836-8419d0e7-1ef6-4477-b28d-146f5fd15e3c.gif)
 ### Hi there 👋
 
 <!--
