@@ -7,6 +7,3 @@
 - 🌱 I’m currently learning React
 - 👨‍💻 All of my projects are available at https://github.com/OlgaStrelk
 - 📫 How to reach me: strelod@gmail.com
-- ⚡ Reliable fact: 
-
-![giphy](https://user-images.githubusercontent.com/86570826/165311836-8419d0e7-1ef6-4477-b28d-146f5fd15e3c.gif)
