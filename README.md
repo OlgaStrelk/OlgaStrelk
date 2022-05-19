@@ -4,6 +4,6 @@
 
 
 - 🔭 I’m currently working on [app mesto](https://github.com/OlgaStrelk/mesto)
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning 
 - 👨‍💻 All of my projects are available at https://github.com/OlgaStrelk
 - 📫 How to reach me: strelod@gmail.com
