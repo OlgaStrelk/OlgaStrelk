@@ -7,3 +7,8 @@
 - 🌱 I’m currently learning VUE
 - 👨‍💻 All of my projects are available at https://github.com/OlgaStrelk
 - 📫 How to reach me: strelod@gmail.com
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olgastrelk&show_icons=true&locale=en&layout=compact" alt="olgastrelk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olgastrelk&show_icons=true&locale=en" alt="olgastrelk" /></p>
+
