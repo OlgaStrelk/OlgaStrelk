@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olgastrelk" alt="olgastrelk" /></a> </p>
 
-- 🔭 I’m currently working on сервер 
+- 🔭 I’m currently working on ![backend for Mesto](https://github.com/OlgaStrelk/express-mesto-gha)
 - 🌱 I’m currently learning Typesctipt, NodeJS
 - 👨‍💻 All of my projects are available at https://github.com/OlgaStrelk
 - 📫 How to reach me: strelod@gmail.com
