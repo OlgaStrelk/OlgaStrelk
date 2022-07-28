@@ -1,6 +1,7 @@
 ### Hi, I'm Olya 👋🕍   
 ##### you can see the technologies I apply below:
-![Olga Strelkova](https://user-images.githubusercontent.com/86570826/181608231-7dcbde94-1911-45e6-9ee5-fd45d998ba2c.jpg)
+
+![визитка в гитхаб](https://user-images.githubusercontent.com/86570826/181608365-7ecb7d84-3057-429d-ab26-0ddf2fe1d4fd.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olgastrelk&label=Profile%20views&color=0e75b6&style=flat" alt="olgastrelk" /> </p>
