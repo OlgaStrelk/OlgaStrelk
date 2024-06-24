@@ -7,7 +7,8 @@ Typescript, Javascript, React, Redux
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olgastrelk" alt="olgastrelk" /></a> </p>
 
-- 🔭 I’m currently rewriting [Mesto](https://github.com/OlgaStrelk/mesto-react) on Typescript 
+- 🔭 I’m currently rewriting [Mesto](https://github.com/OlgaStrelk/mesto-react) on Typescript
+- I'm currently learning Next
 - 🌱 I’m currently reading 
 - 👨‍💻 All of my projects are available at https://github.com/OlgaStrelk
 - 📫 How to reach me: strelod@gmail.com
