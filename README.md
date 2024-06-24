@@ -1,5 +1,5 @@
 ### Hi, I'm Olya 👋🕍   
-##### you can see the technologies I apply below: 
+##### you can see the technologies I apply below:
 
 Typescript, Javascript, React, Redux
 
