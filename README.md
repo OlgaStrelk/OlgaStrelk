@@ -1,7 +1,7 @@
 ### Hi, I'm Olya 👋🕍   
 ##### you can see the technologies I apply below:
 
-Typescript, Javascript, React, Redux
+Typescript, React, Redux
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olgastrelk&label=Profile%20views&color=0e75b6&style=flat" alt="olgastrelk" /> </p>
 
