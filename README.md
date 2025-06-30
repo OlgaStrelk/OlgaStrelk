@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olgastrelk" alt="olgastrelk" /></a> </p>
 
-- 🚧 Building an **AI‑ready learning interface** for **TalentHub Junior Quest (ML‑Learning track)** using **Next.js 14**, **React Server Components** & **tRPC**  
+- 🚧 Building an [**AI‑ready learning interface**](https://github.com/OlgaStrelk/soviet-art-1930-50/tree/main) for **TalentHub Junior Quest (ML‑Learning track)** using **Next.js 14**, **React Server Components** & **tRPC**  
 - ⚙️ Side project: **Task Logger** — **React + TypeScript** front‑end, **NestJS** REST API with **Redis** queues, **SQLite + TypeORM**, auto‑generated **Swagger** docs  
 - 📚 Studying “**Математика для цифровых профессий**” at **Yandex Practicum**, building solid math foundations for ML & data science  
 - 📘 Reading *Kyle Simpson – You Don't Know JS*  
